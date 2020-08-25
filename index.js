@@ -385,5 +385,5 @@ app.delete("/staff/:id",async(req,res)=>{
 });
 
 app.listen(3000,()=>{
-    console.log("5 lốp nhé babe");
+    console.log("5 lốp nhé babe ok ok");
 });
